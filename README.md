@@ -11,4 +11,4 @@ Autenticação (login): autenticação para verificar as credenciais do usuário
 Manutenção de receitas culinárias.
 Listar receitas culinárias por usuário.
 
-Para construção do sistema foi utilizado o Maven do intellij, e para conexão com banco de dados foi usado jdbc do mysql, e o mysql para criação das tabelas.
+Para construção do sistema foi utilizado o Maven do intellij, e para conexão com banco de dados foi usado jdbc do mysql e o mysql para criação das tabelas.
